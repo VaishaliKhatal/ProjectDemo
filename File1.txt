@@ -1,3 +1,6 @@
 Hello world!
 
 WI2:chnage added by teammate on remote master.
+
+Change for Bug1.
+
