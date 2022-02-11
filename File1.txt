@@ -2,5 +2,6 @@ Hello world!
 
 WI2:chnage added by teammate on remote master.
 
-Change for Bug1.
+Change- for Bug1.
 
+chnage for WI3:by teamate on remote master for 3-way merging.
